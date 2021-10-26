@@ -1,0 +1,11 @@
+fullname = input("fullname")
+nickname = input("nickname")
+npm = input("nim")
+wasborn = input("was born")
+old = input("old")
+address = input("address")
+number = input("numbercall")
+
+print("Salam sejahtera")
+print("let me introduce my self. my name is %s , but you can call me %s . my npm is %s . i was born in %s and i am %s years old . i am very glad if you want to invite my house in %s . so, dont forget call me before with the number %s" %(fullname, nickname, npm, wasborn, old, address, number) )
+print("thank you")
